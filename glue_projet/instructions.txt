@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
+awsglue
+   dataatalog==>database==>name
+   crawlers==>name,datasource s3path
